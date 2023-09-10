@@ -1,23 +1,23 @@
-        "discord_integration_title" => "<h2>PTRE / Discord Setup</h2>",
-        "discord_integration_intro" => '<center><b>This action allows PTRE bot to fetch and save all spy reports posted into your Discord server.</b></center><br><br>',
-    	"discord_integration_not_connected" => 'You need to be connected as administrator (creator) to get your Discord association key.<br>You need to connect Discord to your Teams.</span><br><br><a href="/?page=team">Connect | Create Team</a>',
+        "discord_integration_title" => "<h2>PTRE / Configuración de discord</h2>",
+        "discord_integration_intro" => '<center><b>Esta acción permite al bot PTRE buscar y guardar todos los informes de espionaje publicados en su servidor de Discord.</b></center><br><br>',
+    	"discord_integration_not_connected" => 'Debes estar conectado como administrador (creador) para obtener tu clave de asociación de Discord.<br>Necesitas conectar Discord a tus equipos.</span><br><br><a href="/?page=team">Conectar | Crear equipo</a>',
     	
-    	"discord_integration_steps_part1" => '<h3>Integration steps:</h3><ol>
-    	<li><b></span><a href="/?page=team">Create a team</a>. Save ADMIN key and give TEAM key to your mates.</b></li>
-    	<li><b>Invit the PTRE bot to your Discord server</b> by <b>conecting yourself to Discord</b> in your browser and follow the <a href="https://discordapp.com/oauth2/authorize?&client_id=512294332058042388&scope=bot" target="_blank">link to invit PTRE bot</a>.<br>(PTRE bot does NOT need any administrator rights).</li>
-    	<li><b>Configure bot\'s access</b>: Add bot to chan where you want it to detect spy reports.<br>(<i>You may also create a "<b>paye-ton-re</b>" channel and invit it only in this channel</i>).</li>
-    	<li>Into a PTRE channel, <b>copy the WO key</b> ',
+    	"discord_integration_steps_part1" => '<h3>Pasos de integración:</h3><ol>
+    	<li><b></span><a href="/?page=team">Crear un equipo</a>. Guarde la clave ADMIN y dé la clave de EQUIPO a sus compañeros.</b></li>
+    	<li><b>Invita al bot PTRE a tu servidor de Discord</b> by <b>conectándote a Discord</b> en tu navegador y sigue las <a href="https://discordapp.com/oauth2/authorize?&client_id=512294332058042388&scope=bot" target="_blank">enlace para invitar al bot PTRE</a>.<br>(El bot PTRE NO necesita ningún derecho de administrador).</li>
+    	<li><b>Configurar el acceso del bot</b>: Agrega un bot al canal donde quieras que detecte informes de espionaje.<br>(<i>También puedes crear un "<b>paye-ton-re</b>" canal e invitarlo solo en este canal</i>).</li>
+    	<li>En un canal PTRE, <b>copiar la clave WO</b> ',
 
-    	"discord_integration_steps_part2" => 'to match your Discord server with your team.</b>.<br>If you get a message saying "<i>Association done.</i>" its all fine !</li>
-    	<li><b>Copy a spy report API key into Discord.</b> It should be imported into your PTRE Team.</li>
-    	<li>Add a default universe with the command <b>!ptre !default [country]-[universe_id]</b>.</li>
-    	<li>Check the help: <b>!ptre</b></li>
+    	"discord_integration_steps_part2" => 'para hacer coincidir su servidor de Discord con su equipo.</b>.<br>Si recibes un mensaje que dice "<i>Asociación hecha.</i>" Todo está bien !</li>
+    	<li><b>Copie una clave API de informe de espionaje en Discord.</b> Debe importarse a su equipo PTRE..</li>
+    	<li>Agregue un universo predeterminado con el comando <b>!ptre !default [país]-[universo_id]</b>.</li>
+    	<li>Consulta la ayuda: <b>!ptre</b></li>
     	</ol>
-    	<br><br><h3>Notes:</h3>
-    	<ul><li>If you dont do the match between your Discord server and your Team, all reports posted will be public (as PTRE bot will not know to what team associate it).</li>
-    	<li><b>A Discord server can only be associated to one single Team</b> (your team).</li>
-    	<li>But, <b>several Discord servers can be associated to same PTRE Team</b> (your Discord server + your mate\'s one, for instance). You only need to copy the same WO key on each Discord servers</li>
-    	<li>You may change the Team associated to a Discord server (by copying a new WO key)</li>
-        <li><a href="/?page=privacy">Privacy Policy</a></li>
+    	<br><br><h3>Notas:</h3>
+    	<ul><li>Si no realiza la coincidencia entre su servidor de Discord y su equipo, todos los informes publicados serán públicos (ya que el bot PTRE no sabrá a qué equipo lo asocia).</li>
+    	<li><b>Un servidor de Discord solo puede asociarse a un único equipo</b> (Tu equipo).</li>
+    	<li>Pero, <b>Se pueden asociar varios servidores de Discord al mismo equipo PTRE.</b> (tu servidor de Discord + el de tu amigo, por ejemplo). Solo necesitas copiar la misma clave WO en cada servidor de Discord</li>
+    	<li>Puede cambiar el equipo asociado a un servidor de Discord (copiando una nueva clave WO)</li>
+        <li><a href="/?page=privacy">política de privacidad</a></li>
     	</ul>',
-        "discord_integration_copy_key" => "Copy this key into Discord: ",
+        "discord_integration_copy_key" => "Copia esta clave en Discord: ",
