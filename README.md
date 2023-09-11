@@ -4,8 +4,8 @@ PTRE is an easy-to-use [tolerated tool](https://forum.origin.ogame.gameforge.com
 - Discord, by installing the [PTRE bot](https://discordapp.com/oauth2/authorize?&client_id=512294332058042388&scope=bot)
 - [OGLight script](https://openuserjs.org/scripts/nullNaN/OGLight), by installing the add-on into your browser
 - [OGame Infinity](https://ogameinfinity.com/)
-- Directly through the [PTRE website](https://ptre.chez.gg/)
-- And now, through [EasyPTRE](https://openuserjs.org/scripts/GeGe_GM/EasyPTRE)
+- [EasyPTRE](https://openuserjs.org/scripts/GeGe_GM/EasyPTRE) for AGR
+- Or directly through the [PTRE website](https://ptre.chez.gg/)
 
 Your spy reports will be shared only with your team mates. PTRE can also create an ingame activity profiles, manage and sort spy reports, and more...
 
