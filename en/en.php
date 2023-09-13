@@ -289,3 +289,7 @@
         "messages_intro" => 'Each messages will be deleted 24 hours after being read.',
         "messages_user_comment" => 'Thoses messages are for you',
         "messages_admin_comment" => 'Thoses messages are for your team',
+        "menu_link_discord" => "DISCORD SETUP",
+        "menu_link_search" => "SEARCH",
+        "menu_link_options" => "OPTIONS",
+        "no_universe_selected" => "No universe selected",

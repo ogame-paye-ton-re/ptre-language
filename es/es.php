@@ -289,3 +289,7 @@
         "messages_intro" => 'Cada mensaje será eliminado 24 horas después de ser leído.',
         "messages_user_comment" => 'Esos mensajes son para ti.',
         "messages_admin_comment" => 'Esos mensajes son para tu equipo.',
+        "menu_link_discord" => "CONFIGURACION DISCORD",
+        "menu_link_search" => "BUSQUEDA",
+        "menu_link_options" => "OPCIONES",
+        "no_universe_selected" => "Universo no seleccionado",
