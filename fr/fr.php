@@ -289,3 +289,7 @@
         "messages_intro" => 'Tous les nouveaux messages seront supprimés 24 heures après leur lecture.',
         "messages_user_comment" => 'Ces messages vous concernent',
         "messages_admin_comment" => 'Ces messages concernent votre équipe',
+        "menu_link_discord" => "DISCORD SETUP",
+        "menu_link_search" => "RECHERCHE",
+        "menu_link_options" => "OPTIONS",
+        "no_universe_selected" => "Pas d'univers sélectionné",
