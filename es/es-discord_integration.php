@@ -14,7 +14,7 @@
     	<li>Consulta la ayuda: <b>!ptre</b></li>
     	</ol>
     	<br><br><h3>Notas:</h3>
-    	<ul><li>Si no realiza la coincidencia entre tu servidor de Discord y tu equipo, todos los informes publicados serán públicos (ya que el bot PTRE no sabrá a qué equipo lo asocia).</li>
+    	<ul><li>Si no realizas la coincidencia entre tu servidor de Discord y tu equipo, todos los informes publicados serán públicos (ya que el bot PTRE no sabrá a qué equipo asociarlo).</li>
     	<li><b>Un servidor de Discord solo puede asociarse a un único equipo</b> (Tu equipo).</li>
     	<li>Pero, <b>Se pueden asociar varios servidores de Discord al mismo equipo PTRE.</b> (tu servidor de Discord + el de tu amigo, por ejemplo). Solo necesitas copiar la misma clave WO en cada servidor de Discord</li>
     	<li>Puedes cambiar el equipo asociado a un servidor de Discord (copiando una nueva clave WO)</li>
