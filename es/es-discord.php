@@ -4,7 +4,7 @@
         "discord_force_filtering" => "Solo filtrado ",
         "discord_no_association" => "Ningún equipo asociado a este Discord. Debes copiar y pegar tu clave de Discord aquí (wo-xxxx-xxxx...).\nConfiguración de Discord: https://ptre.chez.gg/?page=discord_integration",
         "discord_help_title" => "**Ayuda PTRE**\n\n",
-        "discord_help_config" => "**Configuration:**",
+        "discord_help_config" => "**Configuración:**",
         "discord_help_team" => "Tu equipo: ",
         "discord_help_def" => "Universo predeterminado: ",
         "discord_help_ogl_chan" => "Canal de empuje: ",

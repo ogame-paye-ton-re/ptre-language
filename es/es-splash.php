@@ -4,18 +4,18 @@
         "splash_features_title" => "Otras características",
         "splash_splash" => '<b>PTRE es una herramienta fácil de usar para guardar y compartir informes de espionaje.</b> Puede guardar informes de espionaje desde:
         <ul><li><b>Discord</b>, instalando el bot PTRE</li>
-        <li><a href="https://board.fr.ogame.gameforge.com/index.php?thread/722955-oglight/&postID=11950870#post11950870" target="_blank">OGLight</a>, instalando el complemento en su navegador</li>
+        <li><a href="https://board.fr.ogame.gameforge.com/index.php?thread/722955-oglight/&postID=11950870#post11950870" target="_blank">OGLight</a>, instalando el complemento en tu navegador</li>
         <li><a href="https://openuserjs.org/scripts/GeGe_GM/EasyPTRE" target="_blank">EasyPTRE para AGR</a></li>
         <li>OGame Infinity</li>
         <li>Directamente a través del sitio web</li></ul>
 
         <b>Tus informes de espionaje se compartirán únicamente con tus compañeros de equipo</b>. PTRE también puede crear un perfil de actividad dentro del juego, administrar y ordenar informes de espionaje. 
         <br><br>Para empezar, sólo necesitas <a href="/?page=team">crear tu equipo</a> y <a href="https://discordapp.com/oauth2/authorize?&client_id=512294332058042388&scope=bot" target="_blank">instalar PTRE bot</a>.
-        <br><br>A continuación encontrará todas las funciones de PTRE.',
-        "splash_invitation_bot" => '<h3>Invita a PTRE bot a tu servidor de Discord</h3>
+        <br><br>A continuación encontrarás todas las funciones de PTRE.',
+        "splash_invitation_bot" => '<h3>Invita al bot PTRE a tu servidor de Discord</h3>
             <br>Para utilizar plenamente las funciones de PTRE, debes <a href="https://discordapp.com/oauth2/authorize?&client_id=512294332058042388&scope=bot" target="_blank">invitar al bot PTRE</a> a tu servidor de Discord. 
             <br><br>El bot <b>no necesita ningún derecho de administrador</b>.
-            <br><br>Y no es necesario que esté en todos y cada uno de los canales de su servidor.',
+            <br><br>Y no es necesario que esté en todos y cada uno de los canales de tu servidor.',
         "splash_channel" => '<h3>Configurar el acceso del bot</h3>
                     <br>Como usuario básico, invita al bot a algunos canales donde deseas que detecte informes de espionaje:
                     <ul>
@@ -30,7 +30,7 @@
 
                     <br><br>Sin asociación, los informes de espionaje serán públicos.',
         "ptre_example" => '<h3>Importar informes de espionaje desde Discord</h3>
-        Copia las claves API de los informes espía a su servidor Discord: se enviarán directamente al sitio web de PTRE y se almacenarán en la base de datos eterna de su equipo.<br><br><b>¡Además, se mostrará la evolución de la flota!</b>',
+        Copia las claves API de los informes de espionaje a tu servidor Discord: se enviarán directamente al sitio web de PTRE y se almacenarán en la base de datos eterna de tu equipo.<br><br><b>¡Además, te mostrará la evolución de la flota!</b>',
         "splash_re" => '<h3>Consulta la evolución de la flota</h3>
         Tus informes de espionaje se almacenan hasta que los eliminas. Incluso después de ser eliminado de la API de OGame, seguirá estando disponible para tu equipo.
 
