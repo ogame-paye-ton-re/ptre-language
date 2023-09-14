@@ -1,7 +1,7 @@
     	"collector_title" => "Simulador OGame V7.5: producción del Recolector",
         "collector_conso" => "Consumo",
         "collector_simulate_button" => "Simular",
-        "collector_surcharge" => "Anulación del Taladrador",
+        "collector_surcharge" => "Taladrador overload",
         "collector_only" => "Sólo recolector",
         "collector_class" => "Clase recolector",
         "collector_class_bonus" => "<i>Bono de Taladrador</i> - <b>Comprobar si recolecta</b>",
