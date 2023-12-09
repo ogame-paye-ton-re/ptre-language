@@ -1,4 +1,4 @@
-    	"collector_title" => "OGame V7.5 Simulator : Collector Production",
+        "collector_title" => "OGame V7.5 Simulator: Collector Production",
         "collector_conso" => "Consumption",
         "collector_simulate_button" => "Simulate",
         "collector_surcharge" => "Crawler override",

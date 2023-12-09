@@ -1,4 +1,4 @@
-    	"collector_title" => "Simulador OGame V7.5: producción del Recolector",
+        "collector_title" => "Simulador OGame V7.5: producción del Recolector",
         "collector_conso" => "Consumo",
         "collector_simulate_button" => "Simular",
         "collector_surcharge" => "Taladrador overload",

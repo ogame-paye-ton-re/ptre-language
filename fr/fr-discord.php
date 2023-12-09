@@ -1,4 +1,4 @@
-    	"discord_univers_label" => "Aucun",
+        "discord_univers_label" => "Aucun",
         "discord_yes" => "oui",
         "discord_no" => "non",
         "discord_force_filtering" => "filtre forcé sur ",
