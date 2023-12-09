@@ -1,4 +1,4 @@
-    	"splash_title" => "PTRE PRESENTATION",
+        "splash_title" => "PTRE PRESENTATION",
         "splash_top_features_title" => "Top Features",
         "splash_configuration_title" => "PTRE configuration",
         "splash_features_title" => "Other Features",
@@ -85,7 +85,8 @@
         <tr><td><img src="/img/ogame/research_106.png" width="20px"> Sending counter spy messages to activity database</td><td align="center"><span class="status_positif">YES</span></td><td align="center"><span class="status_positif">YES</span></td><td align="center"><span class="status_negatif">NO</span></td></tr>
         <tr><td><img src="/img/ogame/research_108.png" width="20px"> Displaying activity graphic</td><td align="center"><span class="status_positif">YES</span></td><td align="center"><span class="status_positif">YES</span></td><td align="center"><span class="status_negatif">NO</span></td></tr>
         <tr><td><img src="/img/ogame/planet_9.png" width="20px"> Detecting and sending new planets / moons to Team database</td><td align="center"><span class="status_positif">YES</span></td><td align="center"><span class="status_positif">YES</span></td><td align="center"><span class="status_negatif">NO</span></td></tr>
-        <tr><td><img src="/img/ogame/moon_3.gif" width="20px"> Syncing back ingame new planets / moons from PTRE</td><td align="center"><span class="status_positif">YES</span></td><td align="center"><span class="status_negatif">NO</span></td><td align="center"><span class="status_negatif">NO</span></td></tr></table>',
+        <tr><td><img src="/img/ogame/moon_3.gif" width="20px"> Syncing back ingame new planets / moons from PTRE</td><td align="center"><span class="status_positif">YES</span></td><td align="center"><span class="status_negatif">NO</span></td><td align="center"><span class="status_negatif">NO</span></td></tr>
+        <tr><td><img src="/img/ogame/player.png" width="20px"> Syncing Ingame Team targets</td><td align="center"><span class="status_negatif">NO</span></td><td align="center"><span class="status_negatif">NO</span></td><td align="center"><span class="status_positif">YES</span></td></tr></table>',
         'easyptre' => '<h3>EasyPTRE for AGR</h3><b>If you are an AGR user</b>, you can install <a href="https://openuserjs.org/scripts/GeGe_GM/EasyPTRE" target="_blank">EasyPTRE</a>.<br>It\'s a tolerated tool that provides PTRE basic features for AGR.',
         "splash_position_8_finder" => '<h3>Position 8 Finder</h3>
                                        <a href="/?page=position_8_finder">An simple tool</a> to easily find the spot you need in your universe.<br><br>Just select the spot you want and browse free systems...',

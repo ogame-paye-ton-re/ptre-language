@@ -1,4 +1,4 @@
-    	"splash_title" => "PRESENTACIÓN DE PTRE",
+        "splash_title" => "PRESENTACIÓN DE PTRE",
         "splash_top_features_title" => "Características principales",
         "splash_configuration_title" => "Configuración PTRE",
         "splash_features_title" => "Otras características",
@@ -85,7 +85,8 @@
         <tr><td><img src="/img/ogame/research_106.png" width="20px"> Envío de mensajes de contraespionaje a la base de datos de actividades</td><td align="center"><span class="status_positif">SÍ</span></td><td align="center"><span class="status_positif">SÍ</span></td><td align="center"><span class="status_negatif">NO</span></td></tr>
         <tr><td><img src="/img/ogame/research_108.png" width="20px"> Mostrando gráfico de actividad</td><td align="center"><span class="status_positif">SÍ</span></td><td align="center"><span class="status_positif">SÍ</span></td><td align="center"><span class="status_negatif">NO</span></td></tr>
         <tr><td><img src="/img/ogame/planet_9.png" width="20px"> Detectar y enviar nuevos planetas/lunas a la base de datos del Equipo</td><td align="center"><span class="status_positif">SÍ</span></td><td align="center"><span class="status_positif">SÍ</span></td><td align="center"><span class="status_negatif">NO</span></td></tr>
-        <tr><td><img src="/img/ogame/moon_3.gif" width="20px"> Sincronización dentro del juego de nuevos planetas/lunas de PTRE</td><td align="center"><span class="status_positif">SÍ</span></td><td align="center"><span class="status_negatif">NO</span></td><td align="center"><span class="status_negatif">NO</span></td></tr></table>',
+        <tr><td><img src="/img/ogame/moon_3.gif" width="20px"> Sincronización dentro del juego de nuevos planetas/lunas de PTRE</td><td align="center"><span class="status_positif">SÍ</span></td><td align="center"><span class="status_negatif">NO</span></td><td align="center"><span class="status_negatif">NO</span></td></tr>
+        <tr><td><img src="/img/ogame/player.png" width="20px"> Sincronización de los objetivos del Equipo (targets)</td><td align="center"><span class="status_negatif">NO</span></td><td align="center"><span class="status_negatif">NO</span></td><td align="center"><span class="status_positif">SÍ</span></td></tr></table>',
         'easyptre' => '<h3>EasyPTRE para AGR</h3><b>Si eres usuario de AGR</b>, puedes instalar <a href="https://openuserjs.org/scripts/GeGe_GM/EasyPTRE" target="_blank">EasyPTRE</a>.<br>Es una herramienta tolerada que proporciona funciones básicas de PTRE para AGR.',
         "splash_position_8_finder" => '<h3>Buscador de posición 8</h3>
                                        <a href="/?page=position_8_finder">Una herramienta sencilla</a> para encontrar fácilmente el lugar que necesitas en tu universo.<br><br>Simplemente selecciona el lugar que deseas y explora los sistemas gratuitos...',

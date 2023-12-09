@@ -1,4 +1,4 @@
-    	"team_title" => "Gestion de l'équipe : ",
+        "team_title" => "Gestion de l'équipe : ",
         'team_managment_title' => 'Administration de l\'Equipe : ',
         'team_meta_team_title' => 'Gestion de vos Coalitions',
         "team_connected_as_admin" => "Vous êtes connecté en tant qu'admin de la team ",
