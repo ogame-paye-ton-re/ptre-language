@@ -14,7 +14,10 @@ Your spy reports will be shared only with your team mates. PTRE can also create 
 ## Presentation
 
 This repository contains PTRE languages files.
-At the moment, PTRE is available in English, French and soon in Spanish (thanks to CamiOx).
+At the moment, PTRE is available in:
+- English
+- French
+- Spanish (thanks to CamiOx)
 
 ## Contribution
 
