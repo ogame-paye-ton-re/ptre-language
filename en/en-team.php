@@ -46,7 +46,7 @@
 
             Enter <span class="status_positif">your Team name</span>:',
         "team_pub_create_button" => "Create my new Team / Alliance",
-        "team_pub_create_warning" => '<span class="status_warning">Warning: You do not need to create a new team when you change your ingame universe<br>One Team can manage several universe</span>',
+        "team_pub_create_warning" => '<span class="status_warning">Warning: You do not need to create a new team when you change your ingame universe<br>One Team can manage several universes</span>',
         "team_pub_contact_msg" => '<span class="status_warning large_text">If you face any issues (PTRE key lost, questions), contact GeGe on <a href="https://discord.gg/WsJGC9G" target="_blank">PTRE Discord server</a>.</span>',
         "team_rename_title" => 'Rename your Team',
         "team_reset_team_key" => 'Reset TeamKey',
