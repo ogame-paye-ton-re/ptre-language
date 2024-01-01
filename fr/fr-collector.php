@@ -1,3 +1,6 @@
+<?php
+
+    $lang_collector = array(
         "collector_title" => "Simulateur OGame V7.5 : Production du Collecteur",
         "collector_conso" => "Consommation",
         "collector_simulate_button" => "Simuler",
@@ -16,3 +19,4 @@
         "collector_nrj_cef" => "Energie level / CEF level",
         "collector_pub" => '<span class="status_positif">Des raideurs parmis vos alliés ? <br><br>Pensez à partager le lien du PTRE IG et/ou via votre Discord :<br><br><input onClick="this.select();" value="https://ptre.chez.gg/?page=splash"></input></span>',
         "collector_cef_prod" => "Production CEF",
+  );

@@ -1,3 +1,6 @@
+<?php
+
+    $lang_collector = array(
         "collector_title" => "Simulador OGame V7.5: producción del Recolector",
         "collector_conso" => "Consumo",
         "collector_simulate_button" => "Simular",
@@ -16,3 +19,4 @@
         "collector_nrj_cef" => "Nivel de energía / Nivel del reactor de fusión",
         "collector_pub" => '<span class="status_positif">¿Algunos asaltantes a tu alrededor?<br><br>Comparte el enlace de PTRE en el juego o mediante Discord:<br><br><input onClick="this.select();" value="https://ptre.chez.gg/?page=splash&lang=en"></input></span>',
         "collector_cef_prod" => "producción CEF",
+  );

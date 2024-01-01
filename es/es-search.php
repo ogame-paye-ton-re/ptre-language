@@ -1,3 +1,6 @@
+<?php
+
+    $lang_search = array(
         "search_simple_search_title" => "Búsqueda sencilla",
         "search_advanced_search_title" => "Búsqueda Avanzada",
         "search_simple_search_intro" => "Haz una investigación dependiendo del apodo/alias/nombre:",
@@ -6,3 +9,5 @@
         "search_min_max_fleet_pts_com" => "Puedes dejarlo vacío",
         "search_min_max_def_pts_com" => "Puedes dejarlo vacío",
         "search_error" => "Sin criterios... Es necesario modificar al menos un criterio.",
+
+  );

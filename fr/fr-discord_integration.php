@@ -1,3 +1,6 @@
+<?php
+
+    $lang_discord_integration = array(
         "discord_integration_title" => "<h2>Configuration PTRE / Discord</h2>",
         "discord_integration_intro" => '<center><b>Cette action permet au bot PTRE de récupérer toutes les API de RE<br> que vous posterez sur les channels de votre discord.</b></center><br><br>',
         "discord_integration_not_connected" => 'Vous devez être connecté en tant qu\'administrateur (ou créateur) d\'équipe pour récupérer votre clé d\'association Discord.<br>Sans cela, vous ne pourrez pas connecter votre Discord à votre équipe.</span><br><br><a href="/?page=team">Se connecter | Créer Equipe</a>',
@@ -21,3 +24,5 @@
         <li><a href="/?page=privacy">Politique de confidentialité</a></li>
         </ul>',
         "discord_integration_copy_key" => "Copier cette clé dans Discord : ",
+
+  );

@@ -1,3 +1,6 @@
+<?php
+
+    $lang = array(
         "ptre_slogan" => 'Stockage de RE sans limite de temps,<br>interface et bot Discord, intégration dans <span class="status_positif">OGLight</span>, <span class="status_negatif">Infinity</span>, <span class="status_warning">EasyPTRE pour AGR</span>,<br>Profil d\'activité ingame, synchronisation de la galaxie entre alliés...',
         "test" => "test", 
         "ptre_pres_link_label" => "PRESENTATION PTRE",
@@ -417,3 +420,7 @@
         "menu_link_options" => "OPTIONS",
         "no_universe_selected" => "Pas d'univers sélectionné",
         "profile_quick_menu" => '<a href="#anchor_fleet">FLOTTE / CARTO</a> | <a href="#anchor_researchs">TECHNOS</a> | <a href="#anchor_lfresearchs">TECHNOS FDV</a> | <a href="#anchor_events">EVENEMENTS IG</a> | <a href="#anchor_actitable">TABLE ACTIVITE</a> | <a href="#anchor_actigraph">GRAPHIQUE</a> | <a href="#anchor_sr">ESPIONNAGES</a>',
+    );
+
+
+?>

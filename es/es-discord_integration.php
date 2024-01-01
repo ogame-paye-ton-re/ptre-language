@@ -1,3 +1,6 @@
+<?php
+
+    $lang_discord_integration = array(
         "discord_integration_title" => "<h2>PTRE / Configuración de discord</h2>",
         "discord_integration_intro" => '<center><b>Esta acción permite al bot PTRE buscar y guardar todos los informes de espionaje publicados en tu servidor de Discord.</b></center><br><br>',
         "discord_integration_not_connected" => 'Debes estar conectado como administrador (creador) para obtener tu clave de asociación de Discord.<br>Necesitas conectar Discord a tus equipos.</span><br><br><a href="/?page=team">Conectar | Crear equipo</a>',
@@ -21,3 +24,5 @@
         <li><a href="/?page=privacy">política de privacidad</a></li>
         </ul>',
         "discord_integration_copy_key" => "Copia esta clave en Discord: ",
+
+  );

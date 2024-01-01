@@ -1,3 +1,6 @@
+<?php
+
+    $lang_discord_integration = array(
         "discord_integration_title" => "<h2>PTRE / Discord Setup</h2>",
         "discord_integration_intro" => '<center><b>This action allows PTRE bot to fetch and save all spy reports posted into your Discord server.</b></center><br><br>',
         "discord_integration_not_connected" => 'You need to be connected as administrator (creator) to get your Discord association key.<br>You need to connect Discord to your Teams.</span><br><br><a href="/?page=team">Connect | Create Team</a>',
@@ -20,3 +23,5 @@
         <li><a href="/?page=privacy">Privacy Policy</a></li>
         </ul>',
         "discord_integration_copy_key" => "Copy this key into Discord: ",
+
+  );

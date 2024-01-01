@@ -1,3 +1,6 @@
+<?php
+
+    $lang = array(
         "ptre_slogan" => 'Timeless Spy Report Database,<br>Discord bot and interface, integration with <span class="status_positif">OGLight</span>, <span class="status_negatif">Infinity</span>, <span class="status_warning">EasyPTRE for AGR</span>,<br>Ingame activity profile, galaxy updates to teammates browsers...',
         "test" => "test", 
         "ptre_pres_link_label" => "PTRE PRESENTATION",
@@ -417,3 +420,7 @@
         "menu_link_options" => "OPTIONS",
         "no_universe_selected" => "No universe selected",
         "profile_quick_menu" => '<a href="#anchor_fleet">FLEET / CARTO</a> | <a href="#anchor_researchs">RESEARCHS</a> | <a href="#anchor_lfresearchs">LF RESEARCHS</a> | <a href="#anchor_events">LAST IG EVENTS</a> | <a href="#anchor_actitable">ACTIVITY TABLE</a> | <a href="#anchor_actigraph">ACTIVITY GRAPH</a> | <a href="#anchor_sr">SPY REPORTS</a>',
+    );
+
+
+?>

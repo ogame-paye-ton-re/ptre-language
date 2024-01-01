@@ -1,3 +1,6 @@
+<?php
+
+    $lang = array(
         "ptre_slogan" => 'Base de datos de informes de espías atemporales,<br>Bot e interfaz de Discord, integración con <span class="status_positif">OGLight</span>, <span class="status_negatif">Infinity</span>, <span class="status_warning">EasyPTRE para AGR</span>,<br>Perfil de actividad dentro del juego, actualizaciones de galaxias para los navegadores de los compañeros de equipo...',
         "test" => "prueba", 
         "ptre_pres_link_label" => "PRESENTACIÓN DE PTRE",
@@ -417,3 +420,7 @@
         "menu_link_options" => "OPCIONES",
         "no_universe_selected" => "Seleccione un universo",
         "profile_quick_menu" => '<a href="#anchor_fleet">FLEET / CARTO</a> | <a href="#anchor_researchs">RESEARCHS</a> | <a href="#anchor_lfresearchs">LF RESEARCHS</a> | <a href="#anchor_events">LAST IG EVENTS</a> | <a href="#anchor_actitable">ACTIVITY TABLE</a> | <a href="#anchor_actigraph">ACTIVITY GRAPH</a> | <a href="#anchor_sr">SPY REPORTS</a>',
+    );
+
+
+?>

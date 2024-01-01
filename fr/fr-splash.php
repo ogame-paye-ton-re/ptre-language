@@ -1,3 +1,6 @@
+<?php
+
+    $lang_splash = array(
         "splash_title" => "PRESENTATION DU PTRE",
         "splash_top_features_title" => "Top Features",
         "splash_configuration_title" => "Configuration PTRE",
@@ -77,7 +80,7 @@
                     <b>Les positions des colonies / lunes sont partagées entre les membres d\'une même équipe.</b><br><br>Concrètement et en exemple : cela signifie que si Arthur trouve la volante de Valentin en parcourant la galaxie, alors tous les membres de la Coalition d\'Arthur verront la volante de Valentin dés qu\'ils afficheront les coordonées OGL de Valentin (et ce, sans avoir jamais vraiment vu la volante IG). Cela fonctionne pour les colos et lunes... ',
         "galaxy_event_explorer" => '<h3>Galaxy Event Explorer</h3><b>Visualiser en un coup d\'oeil tout ce qui s\'est passé ingame !</b><br>Cette fonctionnalité fusionne les données de l\'API publique (telles que sur MMORPG) <b>avec les données envoyées par OGLight ou Infinity</b>. Les données sont mises à jour lorsque vous parcourez la galaxie et sont partagées avec votre Equipe sur le site et sur Discord.<br><br><a href="/?page=galaxy_event_explorer">TESTER GALAXY EVENT EXPLORER</a>',
         "oglight_versus_infinity_1" => '<h3>Compatibilité des Scripts : OGLight VS OGame Infinity</h3><br>PTRE est entièrement intégré dans OGLight.<br><br>Du côté d\'OGame Infinity (un fork d\'OGLight) : l\'intégration n\'est pas complète, mais les fonctionnalités de bases sont accessibles.<br><br>',
-        "oglight_versus_infinity_2" => '<table style="background-color: #D3D3D3; margin-bottom: 20px;" border="1" width="90%"><tr><td align="center"><b>Tool Feature</b></td><td align="center" width="150px"><span class="status_positif">OGLight</span></td><td align="center" width="150px"><b>Infinity</b></td><td align="center" width="150px"><b>EasyPTRE<br>(pour AGR)</b><br><a href="https://openuserjs.org/scripts/GeGe_GM/EasyPTRE" target="_blank">Install</a></td></tr>
+        "oglight_versus_infinity_2" => '<table class="main_tab" style="margin-bottom: 20px;" border="1" width="90%"><tr><td align="center"><b>Tool Feature</b></td><td align="center" width="150px"><span class="status_positif">OGLight</span></td><td align="center" width="150px"><b>Infinity</b></td><td align="center" width="150px"><b>EasyPTRE<br>(pour AGR)</b><br><a href="https://openuserjs.org/scripts/GeGe_GM/EasyPTRE" target="_blank">Install</a></td></tr>
         <tr><td><img src="/img/ogame/mini/ship_210.png" width="20px"> [<a href="#splash_oglight">details</a>] Importer des rapports d\'espionnage vers PTRE</td><td align="center"><span class="status_positif">YES</span></td><td align="center"><span class="status_positif">YES</span></td><td align="center"><span class="status_positif">YES</span></td></tr>
         <tr><td><img src="/img/discord-logo.png" width="20px"> [<a href="#ptre_example">details</a>] RE envoyé en notification Discord</td><td align="center"><span class="status_positif">YES</span></td><td align="center"><span class="status_positif">YES</span></td><td align="center"><span class="status_positif">YES</span></td></tr>
         <tr><td><img src="/img/ogame/rank_military.png" width="20px"> [<a href="#oglight_activity_planning">details</a>] Récupération Ingame des infos PTRE des cibles</td><td align="center"><span class="status_positif">YES</span></td><td align="center"><span class="status_positif">YES</span></td><td align="center"><span class="status_negatif">NO</span></td></tr>
@@ -97,3 +100,6 @@
         "galaxy_notification" => '<h3>Notifications de Galaxie</h3>Recevez directement sur Discord les notifications d\'évènements de galaxie générées quand vos amis sondent.<br><br>Vous pouvez cliquer sur le lien afin d\'afficher le Galaxy Event Explorer.',
         "ptre_auto_channel" => '<h3>Discord multi-univers</h3>Si votre équipe jour sur plusieurs univers, vous pouvez associer un channel par univers.<br><br>Créer des channels tel que sur l\'image (en adaptant les noms à vos univers), puis taper la commande "!ptre !autochannel" sur Discord et le bot PTRE se chargera du reste.',
         "splash_compatibility_table_title" => 'Table de compatibilité des outils',
+
+                    
+  );

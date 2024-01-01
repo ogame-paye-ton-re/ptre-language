@@ -1,3 +1,6 @@
+<?php
+
+    $lang_discord = array(
         "discord_univers_label" => "None",
         "discord_yes" => "yes",
         "discord_no" => "no",
@@ -151,3 +154,5 @@
         "building_43" => "Jump Gate",
         "building_44" => "Missiles station",
         "no_previous_report_found" => "No previous SR to compare",
+
+  );

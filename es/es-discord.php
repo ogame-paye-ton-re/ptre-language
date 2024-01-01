@@ -1,3 +1,6 @@
+<?php
+
+    $lang_discord = array(
         "discord_univers_label" => "Ninguno",
         "discord_yes" => "Sí",
         "discord_no" => "No",
@@ -151,3 +154,5 @@
         "building_43" => "Salto cuántico",
         "building_44" => "Silo",
         "no_previous_report_found" => "No hay RS previo para comparar",
+
+  );

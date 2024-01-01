@@ -1,3 +1,6 @@
+<?php
+
+    $lang_discord = array(
         "discord_univers_label" => "Aucun",
         "discord_yes" => "oui",
         "discord_no" => "non",
@@ -151,3 +154,5 @@
         "building_43" => "Porte de saut spatial",
         "building_44" => "Silo de missiles",
         "no_previous_report_found" => "Pas de RE dispo pour calculer une évolution",
+
+  );

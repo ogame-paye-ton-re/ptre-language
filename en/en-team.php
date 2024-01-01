@@ -1,3 +1,6 @@
+<?php
+
+    $lang_team = array(
         "team_title" => "Team Management: ",
         'team_managment_title' => 'Team Administration: ',
         'team_meta_team_title' => 'Coalition Management',
@@ -63,3 +66,7 @@
         "team_disconnect_discord" => 'DISCONNECT',
         "team_login_keys" => "Connexion Keys",
         "team_discord_servers" => "Discord Servers",
+
+
+
+  );

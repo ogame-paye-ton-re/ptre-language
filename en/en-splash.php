@@ -1,3 +1,6 @@
+<?php
+
+    $lang_splash = array(
         "splash_title" => "PTRE PRESENTATION",
         "splash_top_features_title" => "Top Features",
         "splash_configuration_title" => "PTRE configuration",
@@ -77,7 +80,7 @@
                 <b>PTRE/OGL syncs galaxy informations (coordinates) accross PTRE Coalition\'s users.</b><br><br>To demonstrate this feature: if Arthur finds Valentin\'s mobile moon in the galaxy, all members of Arthur\'s Coalition (and Team) will be able to see Valentin\'s mobile when they display OGL coordinates (even if they never saw Valentin\'s mobile).',
         "galaxy_event_explorer" => '<h3>Galaxy Event Explorer</h3><b>Follow what is going on ingame!</b><br>This feature merges data from public API (like in MMORPG) <b>with data sent by OGLight and Infinity</b>. Data are updated when you browse the galaxy and shared with your teamates.<br><br><a href="/?page=galaxy_event_explorer">TRY GALAXY EVENT EXPLORER</a>',
         "oglight_versus_infinity_1" => '<h3>Tool compatibility: OGLight VS OGame Infinity</h3><br>PTRE is fully integrated to OGLight.<br><br>On the OGame Infinity side (an OGLight fork): few features are missing, but you may still use the main features.<br><br>',
-        "oglight_versus_infinity_2" => '<table style="background-color: #D3D3D3; margin-bottom: 20px;" border="1" width="90%"><tr><td align="center"><b>Tool Feature</b></td><td align="center" width="150px"><span class="status_positif">OGLight</span></td><td align="center" width="150px"><b>Infinity</b></td><td align="center" width="150px"><b>EasyPTRE<br>(for AGR)</b><br><a href="https://openuserjs.org/scripts/GeGe_GM/EasyPTRE" target="_blank">Install</a></td></tr>
+        "oglight_versus_infinity_2" => '<table class="main_tab" style="margin-bottom: 20px;" border="1" width="90%"><tr><td align="center"><b>Tool Feature</b></td><td align="center" width="150px"><span class="status_positif">OGLight</span></td><td align="center" width="150px"><b>Infinity</b></td><td align="center" width="150px"><b>EasyPTRE<br>(for AGR)</b><br><a href="https://openuserjs.org/scripts/GeGe_GM/EasyPTRE" target="_blank">Install</a></td></tr>
         <tr><td><img src="/img/ogame/mini/ship_210.png" width="20px"> [<a href="#splash_oglight">details</a>] Saving Spy Reports to PTRE</td><td align="center"><span class="status_positif">YES</span></td><td align="center"><span class="status_positif">YES</span></td><td align="center"><span class="status_positif">YES</span></td></tr>
         <tr><td><img src="/img/discord-logo.png" width="20px"> [<a href="#ptre_example">details</a>] Pushing Spy Reports to Discord</td><td align="center"><span class="status_positif">YES</span></td><td align="center"><span class="status_positif">YES</span></td><td align="center"><span class="status_positif">YES</span></td></tr>
         <tr><td><img src="/img/ogame/rank_military.png" width="20px"> [<a href="#oglight_activity_planning">details</a>] Displaying ingame PTRE best Spy report</td><td align="center"><span class="status_positif">YES</span></td><td align="center"><span class="status_positif">YES</span></td><td align="center"><span class="status_negatif">NO</span></td></tr>
@@ -97,3 +100,4 @@
         "galaxy_notification" => '<h3>Galaxy notifications</h3>Get notifications overs Discord about what is going on ingame. New moons created, player leaving positions, etc.<br><br>You may click on link to display Galaxy Event Explorer.',
         "ptre_auto_channel" => '<h3>Discord multi-universe</h3>If your Team is playing on several universes, you may use this setting to get clean notifications. Create channel alike the screenshot and type "!ptre !autochannel" on Discord to enable the feature.',
         "splash_compatibility_table_title" => 'Tools compatibility table',
+  );
