@@ -364,9 +364,9 @@
         "stats_status_teams_actives" => "<b>Equipes actives - Site Web</b>",
         "stats_status_discord" => "<b>Equipes actives - Discord</b>",
         "stats_status_nb_acti_pushed" => '<b>Activités ingame</b><br><span class="status_positif">Depuis OGLight</span><br><span class="status_negatif">Depuis Infinity</span><br><span class="status_warning">Depuis EasyPTRE</span>',
-        "stats_status_nb_ogl_requests" => '<b>Requètes de profil</b><br><span class="status_positif">Depuis OGLight</span><br><span class="status_negatif">Depuis Infinity</span>',
+        "stats_status_nb_ogl_requests" => '<b>Requètes de profil</b><br><span class="status_positif">Depuis OGLight</span><br><span class="status_negatif">Depuis Infinity</span><br><span class="status_warning">Depuis EasyPTRE</span>',
         "stats_status_nb_grap" => "<b>Graphiques d'activités consultés</b><br><i>Sur le site, uniquement</i>",
-        "stats_status_nb_planets" => "<b>Nombre de nouvelles planètes</b>",
+        "stats_status_nb_planets" => "<b>Evènements de galaxie</b>",
         "more_statistics" => "Plus de statistiques",
         "ptre_statistics" => "Statistiques PTRE",
         "easy_ag_simulator_intro" => "<b>Comment ça marche ?</b><br><br>

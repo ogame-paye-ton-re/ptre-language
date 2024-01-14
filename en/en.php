@@ -364,9 +364,9 @@
         "stats_status_teams_actives" => "<b>Active Teams - Website</b>",
         "stats_status_discord" => "<b>Active Teams - Discord</b>",
         "stats_status_nb_acti_pushed" => '<b>Ingame activities</b><br><span class="status_positif">From OGLight</span><br><span class="status_negatif">From Infinity</span><br><span class="status_warning">From EasyPTRE</span>',
-        "stats_status_nb_ogl_requests" => '<b>Profile Requests From IG</b><br><span class="status_positif">From OGLight</span><br><span class="status_negatif">From Infinity</span>',
+        "stats_status_nb_ogl_requests" => '<b>Profile Requests From IG</b><br><span class="status_positif">From OGLight</span><br><span class="status_negatif">From Infinity</span><br><span class="status_warning">From EasyPTRE</span>',
         "stats_status_nb_grap" => "<b>Activity graph displayed</b><br><i>Website, only</i>",
-        "stats_status_nb_planets" => "<b>Imported planets count</b>",
+        "stats_status_nb_planets" => "<b>Galaxy Events</b>",
         "more_statistics" => "More statistics",
         "ptre_statistics" => "PTRE statistics",
         "easy_ag_simulator_intro" => "<b>How does it works?</b><br><br>
